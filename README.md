@@ -34,3 +34,9 @@ The data you will review consists of three files provided by the HR team:
     - Calculate the hourly and annual compensation increase for non-smokers as a benefit of the *Healthy Habits Bonus Program*. The total budget is $983,221 for all employees.
 
 3. Create a dashboard for HR to understand absenteeism at work based on an approved wireframe.
+
+### Analysis
+
+Link to Jupyter Notebook
+
+Link to dashboard: [HR Analytics: Employee Absenteeism](https://public.tableau.com/app/profile/robyn.white/viz/EmployeeAbsenteeism_16910295373990/Dashboard1?publish=yes)
