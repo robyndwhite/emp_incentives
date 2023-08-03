@@ -24,7 +24,7 @@ The data you will review consists of three files provided by the HR team:
 2. [Reasons.csv](https://github.com/Gaelim/work_incentive_program/blob/main/Reasons.csv)
 3. [Compensation.csv](https://github.com/Gaelim/work_incentive_program/blob/main/compensation.csv)
 
-### Request
+### Request 
 
 1. Build a database
 
