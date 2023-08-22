@@ -37,6 +37,6 @@ The data you will review consists of three files provided by the HR team:
 
 ### Analysis
 
-- [Jupyter Notebook](https://nbviewer.org/gist/robyndwhite/b66a9339bcd6b7bca018d69a7b79703c)
+- [Jupyter Notebook](https://nbviewer.org/gist/robyndwhite/a03708aaf0bd09f332474993cf0209ac)
 
 - [HR Analytics: Employee Absenteeism Dashboard](https://public.tableau.com/app/profile/robyn.white/viz/EmployeeAbsenteeism_16910295373990/Dashboard1?publish=yes)
